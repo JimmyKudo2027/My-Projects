@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Music Structure App</string>
+
+    <string name="main_description">This screen will contain name and image of recent albums or songs. \n\nPicaso library will use for display images.</string>
+
+    <string name="song_list">Songs\'s List</string>
+
+    <string name="now_playing">Now Playing</string>
+
+    <string name="song_list_description">This screen will show list of songs in selected album.</string>
+
+    <string name="main">Home</string>
+
+    <string name="now_playing_description">This screen will show player by which user can play pause skip forward or backward in current playing song.</string>
+
+    <string name="play_pause">Play / Pause</string>
+
+    <string name="payment">Purchase</string>
+
+    <string name="payment_description">The In-App Purchasing (IAP)
+        \nAPI
+        \nAllows your app to present, process, and fulfill purchases of digital content and subscriptions within your app.
+        \nAmazon supports an IAP API for Android Apps and Web Apps.</string>
+
+</resources>

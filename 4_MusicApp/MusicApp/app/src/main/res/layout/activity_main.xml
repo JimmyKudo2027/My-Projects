@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:padding="7dp"
+    tools:context="com.example.jimmykudo.musicapp.MainActivity">
+
+    <TextView
+        android:text="@string/main_description"
+        android:textAppearance="@style/description_style"
+        android:layout_marginTop="7dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/main_song_list"
+                android:text="@string/song_list"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:textAllCaps="false"
+                android:textColor="@color/button_txt_color"
+                android:textStyle="bold"
+                android:background="@drawable/transparent"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_margin="7dp"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/main_now_playing"
+                android:text="@string/now_playing"
+                android:layout_weight="1"
+                android:textColor="@color/button_txt_color"
+                android:textStyle="bold"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/transparent"
+                android:layout_width="0dp"
+                android:layout_margin="7dp"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+        <Button
+            android:id="@+id/main_payment"
+            android:text="@string/payment"
+            android:textStyle="bold"
+            android:textColor="@color/button_txt_color"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:background="@drawable/transparent"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</RelativeLayout>

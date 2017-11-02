@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="7dp"
+    android:background="@drawable/background"
+    tools:context="com.example.jimmykudo.musicapp.SongList">
+
+    <TextView
+        android:text="@string/song_list_description"
+        android:gravity="center"
+        android:textAppearance="@style/description_style"
+        android:layout_marginTop="7dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/song_list_home"
+            android:text="@string/main"
+            android:textAllCaps="false"
+            android:layout_weight="1"
+            android:textColor="@color/button_txt_color"
+            android:textStyle="bold"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:background="@drawable/transparent"
+            android:layout_width="0dp"
+            android:layout_margin="7dp"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/song_list_nowPlaying"
+            android:text="@string/now_playing"
+            android:layout_weight="1"
+            android:textColor="@color/button_txt_color"
+            android:textStyle="bold"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:background="@drawable/transparent"
+            android:layout_width="0dp"
+            android:layout_margin="7dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</RelativeLayout>
