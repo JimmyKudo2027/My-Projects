@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Domino\'s Pizza</string>
+    <string name="description">Fast delivery, deals &amp; discounts and the best choice of restaurants.</string>
+    <string name="hours_of_work">Sun-Thurs: 11:30am-12:00am\nFri-Sat: 11:30am-1:00am</string>
+    <string name="phone">02 22734207</string>
+    <string name="address">68 Hassan El Maamoun St., 6th Zone, Nasr City, Cairo</string>
+    <string name="email">egypt@dominosarabia.com</string>
+</resources>
