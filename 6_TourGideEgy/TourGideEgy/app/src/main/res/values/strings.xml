@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">Tour Guide Egy</string>
+
+    <string name="CairoGiza"><![CDATA[Cairo & Giza]]></string>
+
+    <string name="Great_Sphinx">Great Sphinx</string>
+    <string name="Great_Sphinx_description">
+        - The Great Sphinx may be the most recognized symbol of Ancient Egypt.\n
+        - It is part of the Giza Necropolis, which is in the desert five miles out of Giza.\n
+        - The statue depicting the mythological half-lion-half-man is more than 240 feet long, 20 feet wide and 66 feet high, making it the world\'s largest monolith statue.\n
+        - One of the statue\'s most famous trademarks is the nose having been broken off; the source of how it happened has never been determined.\n
+        - (The most popular claim that it was done by Napoleon\'s soldiers is disputed by artistic evidence.)
+    </string>
+
+    <string name="Great_Pyramid_of_Cheops">Great Pyramid of Cheops</string>
+    <string name="Great_Pyramid_of_Cheops_description">
+        - The Cheops pyramid is the only one the Seven Wonders of the Ancient World that remains intact.\n
+        - This is the resting place of the Egyptian pharaoh Khufu and was constructed around 2584 BC; none of the other Seven Wonders were built before 600 BC.\n
+        - This is the largest of the three pyramids that make up the Giza Necropolis, along with the pyramids of Khafre and Menkaure.
+    </string>
+
+    <string name="Nile_River">Nile River</string>
+    <string name="Nile_River_description">
+        - The Nile is the longest river in the world, running more than 4,100 miles long from Lake Victoria in Kenya to the Mediterranean Sea.\n
+        - The city of Cairo is located where the river splits off into the delta that leads to the river\'s mouth.\n
+        - Most of Egypt\'s ancient landmarks are nearby the Nile, as the ancient civilization needed the river to live off of.
+    </string>
+
+    <string name="Citadel">Citadel</string>
+    <string name="Citadel_description">
+        - The Saladin Citadel is a fortress city located near the center of Cairo on Mokattam hill.\n
+        - The Citadel stands as a monument to the Muslims\' resistance against the medieval West, as it was fortified to defend against the Crusaders.\n
+        - Its most recognizable point may be the mosque with its two huge spires at the very top of the complex.\n
+        - Today, the Citadel contains a number of museums, including the museum of Al-Gawhara Palace.
+    </string>
+
+    <string name="Cairo_Tower">Cairo Tower</string>
+    <string name="Cairo_Tower_description">
+        - Is located on Gezira Island in Cairo\'s Zamalek district.\n
+        - It is one of Cairo\'s newer landmarks, completed in 1961 AD.\n
+        - It is North Africa\'s tallest structure at 614 feet high, with most of the tower surrounded by a lattice border to represent the ancient Egyptian lotus plant.\n
+    </string>
+
+    <string name="Luxor">Luxor</string>
+
+    <string name="Valley_of_the_Kings">Valley of the Kings</string>
+    <string name="Valley_of_the_Kings_description">
+        - The west bank of Luxor had been the site of royal burials since around 2100 BC, but it was the pharaohs of the New Kingdom period (1550–1069 BC) who chose this isolated valley dominated by the pyramid-shaped mountain peak of Al Qurn (The Horn).\n
+        - Once called the Great Necropolis of Millions of Years of Pharaoh, or the Place of Truth, the Valley of the Kings has 63 magnificent royal tombs.\n
+        - The tombs have suffered greatly from treasure hunters, floods and, in recent years, mass tourism: carbon dioxide, friction and the humidity produced by the average 2.8g of sweat left by each visitor have affected the reliefs and the stability of paintings that were made on plaster laid over limestone.\n
+    </string>
+
+    <string name="Karnak">Karnak</string>
+    <string name="Karnak_description">
+        - Karnak is an extraordinary complex of sanctuaries, kiosks, pylons and obelisks dedicated to the Theban triad but also to the greater glory of pharaohs.\n
+        - The site covers over 2 sq km; it\'s large enough to contain about 10 cathedrals.\n
+        - At its heart is the Temple of Amun, the earthly \'home\' of the local god.\n
+    </string>
+
+    <string name="Tomb_of_Seti_I_KV_17">Tomb of Seti I (KV 17)</string>
+    <string name="Tomb_of_Seti_I_KV_17_description">
+        - One of the great achievements of Egyptian art, this cathedral-like tomb is the finest in the Valley of the Kings.\n
+        - The 137m-long tomb was completely decorated and beautifully preserved when Giovanni Belzoni opened it in 1817, and although it has suffered since, it still offers an eye-popping experience – art from Seti\'s reign is among the finest in Egypt.\n
+        - Seti I, who succeeded Ramses I and was father of Ramses II, ruled some seventy years after the death of Tutankhamun.\n
+    </string>
+
+    <string name="Tombs_of_the_Nobles">Tombs of the Nobles</string>
+    <string name="Tombs_of_the_Nobles_description">
+        - The tombs in this area are some of the best, but least visited, attractions on the west bank.\n
+        - Nestled in the foothills opposite the Ramesseum are more than 400 tombs belonging to nobles from the 6th dynasty to the Graeco-Roman period.\n
+        - The tombs that are open to the public are divided into groups and each requires a separate ticket from the Antiquities Inspectorate ticket office near Medinat Habu.
+    </string>
+
+    <string name="Medinat_Habu">Medinat Habu</string>
+    <string name="Medinat_Habu_description">
+        - Ramses III’s magnificent memorial temple of Medinat Habu, fronted by sleepy Kom Lolah village and backed by the Theban mountains, is one of the west bank\'s most underrated sites.\n
+        - This was one of the first places in Thebes closely associated with the local god Amun.\n
+    </string>
+
+
+    <string name="Aswan">Aswan</string>
+
+    <string name="Phiale_Temple">Phiale Temple</string>
+    <string name="Phiale_Temple_description">
+        - The Philae Temple is an ancient landmark and stood on Philae Island for most of its life, close to central Aswan, although its future became threatened after the completion of the Low Dam, when the island remained flooded for much of the year.\n
+        - During this time the architecture was strengthened, although the Philae Temple began to suffer from erosion.\n
+        - Some reliefs were simply washed away and many lower bricks were completely encrusted with silt from the Nile.\n
+        - By 1960, it was decided by UNESCO that the temple should be relocated, so that it could be preserved for future generations.\n
+        - It was successfully moved to the nearby island of Agilkia at the end of the 1970s and completely reassembled.
+    </string>
+
+    <string name="Egyptian_Russian_Friendship_Monument">Egyptian Russian Friendship Monument</string>
+    <string name="Egyptian_Russian_Friendship_Monument_description">
+        - Located on the west bank of the River Nile, the Egyptian Russian Friendship Monument is situated close to the High Dam and is hard to miss, being built to commemorate Russia\'s involvement when the dam was constructed .\n
+        - Based upon the five petals of an actual lotus flower, this Egyptian Russian Friendship Monument towers more than 70 metres / 230 feet into the air.\n
+    </string>
+
+    <string name="Coptic_Orthodox_Cathedral">Coptic Orthodox Cathedral</string>
+    <string name="Coptic_Orthodox_Cathedral_description">
+        - Archangel Michael\'s Coptic Orthodox Cathedral is a stunning modern landmark and enjoys a beautiful setting next to the River Nile.\n
+        - Consecrated at recently as 2006, the cathedral boasts a set of twin towers, some elaborate stone carvings and many huge, arched windows, being topped with a simple white dome.\n
+        - Despite its relative youth, the architecture of the Coptic Orthodox Cathedral is very traditional and once weathered, will no doubt seem quite historical in its appearance.
+    </string>
+
+    <string name="Monastery_Of_St_Simeon">Monastery Of St. Simeon</string>
+    <string name="Monastery_Of_St_Simeon_description">
+        - The Monastery of St. Simeon dates as far back as the 7th century and as such is amongst the best preserved of all Egypt\'s Christian landmarks and strongholds.\n
+        - Surrounded by sweeping expanses of desert sands, the Monastery of St. Simeon boasts some wonderful views and can be reached by boat and then by either camel or donkey.\n
+        - The monastery was enclosed by walls measuring some 10 metres / 33 feet, and comprises of two floors, with the lower level being constructed of tone, and the upper floor from mud bricks.
+    </string>
+
+    <string name="Mausoleum_Of_The_Aga_Khan">Mausoleum Of The Aga Khan</string>
+    <string name="Mausoleum_Of_The_Aga_Khan_description">
+        - The Mausoleum of the Aga Khan is an important landmark in the Aswan area for many reasons and its beautiful pink granite facade can be seen for miles, being perched atop a small hill.\n
+        - The Aga Khan was an exceptionally wealthy Egyptian and lived close by, in a large white villa.\n
+        - Visitors are able to the steep pathway and visit the actual tomb of Aga Khan, which is made of white Carrara marble.\n
+    </string>
+
+    <string name="Alex">Alex</string>
+
+    <string name="Catacombs_of_Kom_el_Shoqafa">Catacombs of Kom el Shoqafa</string>
+    <string name="Catacombs_of_Kom_el_Shoqafa_description">
+        - At 115 feet below ground and discovered by accident in 1900 when a donkey fell inside, the Catacombs of Kom el Shaqafa are a funerary complex dating from the 2nd century A.D.\n
+        - The catacombs are entered via a spiral staircase in an open shaft that was once used to lower dead bodies into the ground.\n
+        - Featuring a mix of Egyptian, Roman and Greek influences, a variety of statues and carvings add intrigue to the catacombs, and a burial tomb chamber can be viewed as well.\n
+    </string>
+
+    <string name="Qaitbey_Fort_and_the_Pharos_Lighthouse">Qaitbey Fort and the Pharos Lighthouse</string>
+    <string name="Qaitbey_Fort_and_the_Pharos_Lighthouse_description">
+        - Built between 1477 and 1480 during the reign of Sultan Qaitbey, the Qaitbey Fort is perched at the end of the eastern harbor and is visible from almost any point along the Corniche.\n
+        - It has cannons, various rooms and a mosque in the center, but not much else in terms of artifacts.\n
+        - The fort is the closest you can get to the ancient Pharos Lighthouse, which was the Seventh Wonder of the Ancient World.\n
+    </string>
+
+    <string name="Pompey_Pillar">Pompey\'s Pillar</string>
+    <string name="Pompey_Pillar_description">
+        - The red granite pillar known as Pompey\'s Pillar was originally constructed to honor the Emperor Diocletian at the end of the 4th century.\n
+        - Contrary to its name, it doesn\'t have anything to do with the Roman general Pompey, though he was killed in Egypt in 48 B.C.\n
+        - The pillar is 30 feet around and 100 feet tall, making it the tallest ancient monument in Alexandria.
+    </string>
+
+    <string name="Kom_el_Dikka">Kom el Dikka</string>
+    <string name="Kom_el_Dikka_description">
+        - Meaning “Hill of Rubble,” this site resembled its name until archaeologists began excavating the area in the 1960s.\n
+        - Here you can see the excavated ruins of the Roman city that lies beneath Alexandria, including a column-lined street, a theater with 13 tiers of seats and part of a villa.\n
+        - Kom el Dikka is within walking distance from the train station, but if you\'re coming from the city center or the catacombs, it’s about a 10-minute taxi ride.
+    </string>
+
+</resources>

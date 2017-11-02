@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#E64A19</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="category_cairo_giza">#FFCCBC</color>
+    <color name="category_aswan">#FFCCBC</color>
+    <color name="category_luxor">#FFCCBC</color>
+    <color name="category_alex">#FFCCBC</color>
+    <color name="nameColor">#212121</color>
+    <color name="descColor">#757575</color>
+</resources>
