@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.jimmykudo.booklistingapp.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/searchHolder"
+        android:orientation="horizontal"
+        android:layout_marginBottom="10dp"
+        android:background="@android:drawable/dialog_holo_light_frame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/bookSearchBar"
+            android:hint="@string/search_hint"
+            android:textColorHint="@color/colorSecondaryText"
+            android:textColor="@color/color_Primary_Text"
+            android:layout_weight="5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/bookSearchButton"
+            android:layout_alignRight="@+id/bookSearchBar"
+            android:background="@android:drawable/ic_search_category_default"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+        <ListView
+        android:id="@+id/bookListView"
+        android:layout_below="@+id/searchHolder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ListView>
+    <TextView
+        android:id="@+id/noBooksFound"
+        android:textColor="@color/color_Primary_Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+</RelativeLayout>

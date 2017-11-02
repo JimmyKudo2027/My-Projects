@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JNewsApp</string>
+    <string name="check_connection">Check Your Internet Connection !</string>
+    <string name="search_hint">Write Something to Search For ... </string>
+    <string name="no_news">No News Found !</string>
+    <string name="wait">Wait ...</string>
+    <string name="API_KEY">62709cbb-d8ad-4935-8851-7bbe1401a2d8</string>
+    <string name="tag">contributor</string>
+</resources>

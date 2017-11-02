@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/sectionName"
+        android:text="sectionName"
+        style="@style/TitleStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/webTitle"
+        android:text="webTitle"
+        style="@style/SubTitleStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_weight="1.5"
+            android:layout_width="0dp"
+            android:text="Type"
+            style="@style/LabelStyle"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/type"
+            android:text="type"
+            style="@style/LabelContentStyle"
+            android:layout_weight="5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_weight="1.5"
+            android:layout_width="0dp"
+            android:text="Date"
+            style="@style/LabelStyle"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/webPublicationDate"
+            android:text="2017-06-20T08:00:05Z"
+            style="@style/LabelContentStyle"
+            android:layout_weight="5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_weight="1.5"
+            android:layout_width="0dp"
+            android:text="Authors"
+            style="@style/LabelStyle"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/getAuthors"
+            android:text="Author Name"
+            style="@style/LabelContentStyle"
+            android:layout_weight="5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/colorPrimary" />
+
+</LinearLayout>
